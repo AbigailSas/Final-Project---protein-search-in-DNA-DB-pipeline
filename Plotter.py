@@ -18,7 +18,7 @@ class Plotter:
 
     def amount_chl_by_month(self, normalized_f,normalized_a,year ):
         """
-
+        Plot amount of normalized chlorophyll along 1 year, with y axis as month and x axis as amount. 
         :param normalized_f:
         :param normalized_a:
         :param year: data from year 1 or 2
